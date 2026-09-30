@@ -20,10 +20,10 @@ Aplicación móvil para realizar el registro del formulario AGRO-01, incluyendo 
 
 | Repositorio | Enlace |
 |---|---|
-| App móvil | `URL_DEL_REPOSITORIO` |
-| Backend principal | `https://gitlab.com/mang4746/agro-01-backend` |
-| Servicio de scoring | `URL_DEL_REPOSITORIO` |
-| Base de datos Oracle | `URL_DEL_REPOSITORIO` |
+| App móvil | [`https://gitlab.com/mang4746/agro-01-app`](https://gitlab.com/mang4746/agro-01-app) |
+| Backend principal | [`https://gitlab.com/mang4746/agro-01-backend`](https://gitlab.com/mang4746/agro-01-backend) |
+| Servicio de scoring | [`https://gitlab.com/mang4746/agro-01-api-credit-scoring`](https://gitlab.com/mang4746/agro-01-api-credit-scoring) |
+| Base de datos Oracle | [`https://gitlab.com/mang4746/db-oracle-docker`](https://gitlab.com/mang4746/db-oracle-docker) |
 
 
 ## Configuración rápida
